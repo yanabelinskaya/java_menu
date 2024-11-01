@@ -1,0 +1,17 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/nav_encyclopedia"
+        android:title="Квадроберская энциклопедия" />
+    <item
+        android:id="@+id/nav_tricks"
+        android:title="Трюки и навыки" />
+    <item
+        android:id="@+id/nav_costumes"
+        android:title="Костюмы и аксессуары" />
+    <item
+        android:id="@+id/nav_community_forum"
+        android:title="Форум сообщества" />
+    <item
+        android:id="@+id/nav_gallery"
+        android:title="Галерея" />
+</menu>
